@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nutreactivo/static/css/main.e1177599.css",
-    "main.js": "/nutreactivo/static/js/main.5f415942.js",
+    "main.js": "/nutreactivo/static/js/main.59dc4bfb.js",
     "static/js/787.c7c3e602.chunk.js": "/nutreactivo/static/js/787.c7c3e602.chunk.js",
     "static/media/img_medicion_2.png": "/nutreactivo/static/media/img_medicion_2.238b66750f52939d51b7.png",
     "static/media/img_medicion_3.png": "/nutreactivo/static/media/img_medicion_3.01b44f1aca72e509c4c6.png",
@@ -36,11 +36,11 @@
     "static/media/img_cruz_blanca.png": "/nutreactivo/static/media/img_cruz_blanca.4300e29f9dc85635b12f.png",
     "index.html": "/nutreactivo/index.html",
     "main.e1177599.css.map": "/nutreactivo/static/css/main.e1177599.css.map",
-    "main.5f415942.js.map": "/nutreactivo/static/js/main.5f415942.js.map",
+    "main.59dc4bfb.js.map": "/nutreactivo/static/js/main.59dc4bfb.js.map",
     "787.c7c3e602.chunk.js.map": "/nutreactivo/static/js/787.c7c3e602.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1177599.css",
-    "static/js/main.5f415942.js"
+    "static/js/main.59dc4bfb.js"
   ]
 }
